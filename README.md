@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jaskaran Singh
 I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack web developer and cybersecurity enthusiast.
 
-Skills:    HTML / CSS / Javascript / React.js / Node / JAVA / DSA
+<!-- Skills:    HTML / CSS / Javascript / React.js / Node / JAVA / MERN stack / DSA -->
 
 - 🔭 I’m currently working on Web Development & React 
 - 🌱 I’m currently learning Springboot & React.js 

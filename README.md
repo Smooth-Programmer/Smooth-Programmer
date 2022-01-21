@@ -3,9 +3,9 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 
 Skills: HTML / CSS / JavaScript / React / Node.js / MERN Stack / JAVA / DSA
 
-- 🔭 I’m currently working on React.js
-- 🌱 I’m currently learning Springboot & React.js 
-- 💬 Ask me about Web Development 
+- 🔭 I’m currently working on : React.js
+- 🌱 I’m currently learning : Springboot & React.js 
+- 💬 Ask me about : Web Development 
 - 📫 How to reach me: Mail me at : developer.micko@gmail.com 
 - 🤪 Fun fact: To explore new technologies for development and internships.
 

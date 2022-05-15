@@ -1,4 +1,6 @@
-### <h1>Hi there 👋, my name is <style> color blue Jaskaran Singh
+### <h1>Hi there 👋, my name is <style>
+  color: blue
+  Jaskaran Singh<\style> 
 I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack web developer and cybersecurity enthusiast.
 
 Skills: HTML / CSS / JavaScript / React / Node.js / MERN Stack / JAVA / DSA

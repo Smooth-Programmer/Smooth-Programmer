@@ -26,6 +26,7 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 - 📫 How to reach me: Mail me at : developer.micko@gmail.com 
 	
 <h3>Social
+	
 <div>
 <a  href="https://www.facebook.com/profile.php?id=100041770744715" target="_blank"><img alt="Facebook" src=https://img.shields.io/badge/Facebook-%23FF0000.svg?style=for-the-badge&logo=Facebook&logoColor=white /></a>
 <a  href="https://www.instagram.com/iamjsmofficial/" target="_blank"><img alt="Instagram" src=https://img.shields.io/badge/Instagram-%23FF0000.svg?style=for-the-badge&logo=Instagram&logoColor=white /></a>

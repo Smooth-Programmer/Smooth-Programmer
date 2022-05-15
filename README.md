@@ -16,7 +16,7 @@ Skills: HTML / CSS / JavaScript / React / Node.js / MERN Stack / JAVA / DSA
 <a href="https://twitter.com/mejaskaransingh" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 </div>  
   
-  <div><\div>
+  <div>
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran-Techno)](https://github.com/anuraghazra/github-readme-stats)

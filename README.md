@@ -17,6 +17,7 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
+	<h3>Tools
 	
 - 🔭 I’m currently working on React 
 - 🌱 I’m currently learning React.js 
@@ -31,6 +32,7 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 <a  href=https://www.linkedin.com/in/jaskaran-techno/ target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/mejaskaransingh" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a  href="https://leetcode.com/Jaskaran-Techno/" target="_blank"><img alt="Leetcode" src=https://img.shields.io/badge/Leetcode-%23FF0000.svg?style=for-the-badge&logo=Leetcode&logoColor=White /></a>
+<a  href="https://discord.com/Jaskaran Singh#9242" target="_blank"><img alt="Leetcode" src=https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white /></a>
 </div>  
   
   <div>

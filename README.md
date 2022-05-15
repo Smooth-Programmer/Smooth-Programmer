@@ -1,7 +1,7 @@
 ### <h1>Hi there 👋, my name is Jaskaran Singh 
 I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack web developer, a keen learner and Android Dev enthusiast.
 	
-<h3>### Skills
+<h3> Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -25,7 +25,7 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 - 🤟 Fun Fact : I make to re-create	
 - 📫 How to reach me: Mail me at : developer.micko@gmail.com 
 	
-###Social
+<h3>Social
 	
 <div>
 <a  href="https://www.facebook.com/profile.php?id=100041770744715" target="_blank"><img alt="Facebook" src=https://img.shields.io/badge/Facebook-%23FF0000.svg?style=for-the-badge&logo=Facebook&logoColor=white /></a>

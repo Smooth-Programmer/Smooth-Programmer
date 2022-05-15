@@ -20,9 +20,7 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 	
 	Tools 
 	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-	<img src="https://img.shields.io/badge/IntelliJ_IDEA-0078D4?style=for-the-badge&logo=intellij%20idea%20code&logoColor=white" />
-	<img src="https://img.shields.io/badge/Webstorm-0078D4?style=for-the-badge&logo=web%20storm%20code&logoColor=white" />
-	<img src="https://img.shields.io/badge/Android_Studio-0078D4?style=for-the-badge&logo=android%20studio%20code&logoColor=white" />
+	
 
 
 - 🔭 I’m currently working on React 

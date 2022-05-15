@@ -1,5 +1,5 @@
 ### <h1>Hi there 👋, my name is Jaskaran Singh 
-I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack web developer and cybersecurity enthusiast.
+I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack web developer, a keen learner and Android Dev enthusiast.
 	
 ### Skills
 
@@ -21,6 +21,7 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 - 🔭 I’m currently working on React 
 - 🌱 I’m currently learning React.js 
 - 💬 Ask me about Web Development 
+- 🤟 Fun Fact : I make to re-create	
 - 📫 How to reach me: Mail me at : developer.micko@gmail.com 
 
 

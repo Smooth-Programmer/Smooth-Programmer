@@ -25,17 +25,7 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 - 🤟 Fun Fact : I make to re-create	
 - 📫 How to reach me: Mail me at : developer.micko@gmail.com 
 	
-<h3>Tools
-	<a href="{https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white}" />
-	<img src="{https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white}" />
-<img src="{https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white}" />
-<img src="{https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white}" />
-<img src="{https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white}" />
-<img src="{https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white}" />	
-	
-
-	
-
+<h3>Social
 <div>
 <a  href="https://www.facebook.com/profile.php?id=100041770744715" target="_blank"><img alt="Facebook" src=https://img.shields.io/badge/Facebook-%23FF0000.svg?style=for-the-badge&logo=Facebook&logoColor=white /></a>
 <a  href="https://www.instagram.com/iamjsmofficial/" target="_blank"><img alt="Instagram" src=https://img.shields.io/badge/Instagram-%23FF0000.svg?style=for-the-badge&logo=Instagram&logoColor=white /></a>

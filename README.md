@@ -19,7 +19,7 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 </p>
 	
 - 🔭 I’m currently working on React 
-- 🌱 I’m currently learning Springboot & React.js 
+- 🌱 I’m currently learning React.js 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: Mail me at : developer.micko@gmail.com 
 

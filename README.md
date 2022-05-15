@@ -9,7 +9,12 @@ Skills: HTML / CSS / JavaScript / React / Node.js / MERN Stack / JAVA / DSA
 - 📫 How to reach me: Mail me at : developer.micko@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jaskaran-Techno)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jaskaran-singh-8a4016215/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100041770744715)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/jaskaran.singh0201//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/mejaskaransingh?t=2Fk9pIDKkWiSoM-CGNgzwg&s=08)  
+<div>
+<a  href="https://www.facebook.com/profile.php?id=100041770744715" target="_blank"><img alt="Facebook" src="https://www.facebook.com/" /></a>
+<a  href="https://www.instagram.com/iamjsmofficial/" target="_blank"><img alt="Instagram" src="https://www.instagram.com/" /></a>
+<a  href=https://www.linkedin.com/in/jaskaran-techno/ target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/mejaskaransingh" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+</div>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran-Techno)](https://github.com/anuraghazra/github-readme-stats)
 

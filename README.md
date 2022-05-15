@@ -17,13 +17,17 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
-	<h3>Tools
+	
 	
 - 🔭 I’m currently working on React 
 - 🌱 I’m currently learning React.js 
 - 💬 Ask me about Web Development 
 - 🤟 Fun Fact : I make to re-create	
 - 📫 How to reach me: Mail me at : developer.micko@gmail.com 
+	
+<h3>Tools
+https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
+
 
 
 <div>

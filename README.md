@@ -1,7 +1,7 @@
 ### <h1>Hi there 👋, my name is Jaskaran Singh 
 I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack web developer, a keen learner and Android Dev enthusiast.
 	
-### Skills
+<h3>### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>

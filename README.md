@@ -26,8 +26,9 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 - 📫 How to reach me: Mail me at : developer.micko@gmail.com 
 	
 <h3>Tools
-https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
+	
 
+<img alt="Android Studio" src=https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white /></a>
 
 
 <div>

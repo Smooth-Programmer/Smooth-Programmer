@@ -18,12 +18,6 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 	
-	###Tools 
-	
-	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-	
-
-
 - 🔭 I’m currently working on React 
 - 🌱 I’m currently learning Springboot & React.js 
 - 💬 Ask me about Web Development 

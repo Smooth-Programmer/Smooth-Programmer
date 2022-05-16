@@ -18,8 +18,9 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
   
-   <p>
+   <div>
   <h3>Tools
+    <p>
     <div>
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />   
@@ -27,6 +28,7 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
    <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />   
       </div>  
    </p>
+  </div>
     
     
     

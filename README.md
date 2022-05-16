@@ -19,8 +19,14 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 </p>
   
   <h3>Tools
+    
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
+    
+    
+    
+    
+    
 - 🔭 I’m currently working on React 
 - 🌱 I’m currently learning React.js 
 - 💬 Ask me about Web Development 

@@ -40,7 +40,9 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 - 📫 How to reach me: Mail me at : developer.micko@gmail.com 
     
 
-
+<div>
+  <h3>Social
+    <p>
 <div>
 <a  href="https://www.facebook.com/profile.php?id=100041770744715" target="_blank"><img alt="Facebook" src=https://img.shields.io/badge/Facebook-%23FF0000.svg?style=for-the-badge&logo=Facebook&logoColor=white /></a>
 <a  href="https://www.instagram.com/iamjsmofficial/" target="_blank"><img alt="Instagram" src=https://img.shields.io/badge/Instagram-%23FF0000.svg?style=for-the-badge&logo=Instagram&logoColor=white /></a>
@@ -48,6 +50,8 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 <a href="https://twitter.com/mejaskaransingh" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a  href="https://leetcode.com/Jaskaran-Techno/" target="_blank"><img alt="Leetcode" src=https://img.shields.io/badge/Leetcode-%23FF0000.svg?style=for-the-badge&logo=Leetcode&logoColor=White /></a>
 </div>  
+    </p>
+  </div>
 
   <div>
 

@@ -31,13 +31,13 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
     
     
     
-    <h4>
+  <h4></h4>
 - 🔭 I’m currently working on React 
 - 🌱 I’m currently learning React.js 
 - 💬 Ask me about Web Development 
 - 🤟 Fun Fact : I make to re-create	
 - 📫 How to reach me: Mail me at : developer.micko@gmail.com 
-    </h4>
+    
 
 
 <div>

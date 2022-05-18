@@ -52,7 +52,7 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 
   <div>
 
-[![Jaskaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaskaran-Techno)](https://github.com/Jaskaran-Techno/github-readme-stats)    
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaskaran-Techno&theme=light) 
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jaskaran-Techno)  
 

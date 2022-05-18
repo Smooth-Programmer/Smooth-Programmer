@@ -54,7 +54,7 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-develop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav-develop&show_icons=true&count_private=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaskaran-Techno&show_icons=true&count_private=true) 
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jaskaran-Techno)  
 

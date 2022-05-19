@@ -1,5 +1,5 @@
 ### <h1>Hi there 👋, my name is Jaskaran Singh 
-I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack web developer, a keen learner and Android Dev enthusiast.
+I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack developer, a keen learner and Android Dev enthusiast.
 
 ### Skills
 

@@ -1,5 +1,5 @@
-### <h1>Hi there, <a href="https://www.linkedin.com/in/jaskaran-techno/" target="_blank"> Jaskaran Singh </a>
-  <img src="https://github.com/Abhi6722/Abhi6722/blob/main/Hi.gif" width="30px"></h1>
+### <h1>Hi there, <a href="https://www.linkedin.com/in/jaskaran-techno/" target="_blank"> Jaskaran Singh </a><img src="https://github.com/Abhi6722/Abhi6722/blob/main/Hi.gif" width="30px"></h1>
+  
 I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack developer, a keen learner and Android Dev enthusiast.
 
 ### Skills

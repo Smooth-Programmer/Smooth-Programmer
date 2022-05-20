@@ -2,6 +2,12 @@
   
 I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack developer, a keen learner and Android Dev enthusiast.
 
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhi6722&label=Profile%20views&color=6805D3&style=flat" alt="Abhinav Kumar" /> </p></h3>
+   <div align="center">
+
+
+
+
 ### Skills
 
 <p align="left">

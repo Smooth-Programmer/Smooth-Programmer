@@ -1,10 +1,10 @@
 ### <h1>Hi there,  I'm <a href="https://www.linkedin.com/in/jaskaran-techno/" target="_blank"> Jaskaran Singh </a><img src="https://github.com/Abhi6722/Abhi6722/blob/main/Hi.gif" width="30px"></h1>
   
 <div>  
-I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack developer, a keen learner and Android Dev enthusiast. I have learned web development and having absolute knowledge of HTML, CSS & Javascript and React.js. Beside that I am also learning Java and also has basic knowledge of Android Development. Technology excites me, development explains me, i believe in implementing the knowledge and skills with 100% enthusiasm and always being ready to face the challenges.
-  <div>
-    <img width="40%" align="right" margin-bottom="30px"  src="https://github.com/Abhi6722/Abhi6722/blob/main/workbench.svg" >
+   <div>
+    <img width="40%" align="right"  src="https://github.com/Abhi6722/Abhi6722/blob/main/workbench.svg" >
   </div>
+I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack developer, a keen learner and Android Dev enthusiast. I have learned web development and having absolute knowledge of HTML, CSS & Javascript and React.js. Beside that I am also learning Java and also has basic knowledge of Android Development. Technology excites me, development explains me, i believe in implementing the knowledge and skills with 100% enthusiasm and always being ready to face the challenges.
 </div>
    
 

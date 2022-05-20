@@ -2,7 +2,7 @@
   
 I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack developer, a keen learner and Android Dev enthusiast.
 
-<h3><img src="https://komarev.com/ghpvc/?username=Abhi6722&label=Profile%20views&color=6805D3&style=flat" alt="Jaskaran Simgh" /></h3>
+<img width="40%" align="right"   src="https://github.com/Abhi6722/Abhi6722/blob/main/workbench.svg" >
    
 
 

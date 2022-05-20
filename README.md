@@ -41,7 +41,7 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
    </p>
   </div>
    
-- 🔭 I’m currently working on React 
+- 🔭 I’m currently working on full stack projects
 - 🌱 I’m currently learning React.js 
 - 💬 Ask me about Web Development 
 - 🤟 Fun Fact : I make to re-create	

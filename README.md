@@ -2,7 +2,8 @@
   
 <div>  
    <div>
-    <img width="40%" align="right"  src="https://lottiefiles.com/91382-web-development" >
+     <img width="40%" align="right" </img> <iframe src="https://embed.lottiefiles.com/animation/91382"></iframe> >
+  
   </div>
 I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack developer, a keen learner and Android Dev enthusiast. I have learned web development and having absolute knowledge of HTML, CSS & Javascript and React.js. Beside that I am also learning Java and has basic knowledge of Android Development. Technology excites me, development explains me, i believe in implementing the knowledge and skills with 100% enthusiasm and always being ready to accept the challenges.
 </div>

@@ -43,7 +43,7 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
   </div>
    
 - 🔭 I’m currently working on full stack projects
-- 🌱 I’m currently learning React.js 
+- 🌱 I’m currently learning MERN Stack 
 - 💬 Ask me about Web Development 
 - 🤟 Fun Fact : I make to re-create	
 - 📫 How to reach me: Mail me at : developer.micko@gmail.com 

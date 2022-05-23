@@ -2,7 +2,7 @@
   
 <div>  
    <div>
-     <img width="40%" align="right"  src="https://github.com/Abhi6722/Abhi6722/blob/main/workbench.svg" >
+     <img width="40%" align="right"  src="![](assets/giphy.gif)" >
   </div>
 I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack developer, a keen learner and Android Dev enthusiast. I have learned web development and having absolute knowledge of HTML, CSS & Javascript and React.js. Beside that I am also learning Java, technology excites me, development explains me and also having basic knowledge of Android Development. 
 </div>

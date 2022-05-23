@@ -75,7 +75,7 @@ I'm currently pursuing graduation from KIET Group of Institutions in Electrical 
   
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/Adarshgupta"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/Jaskaran-Techno"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
   
   
   

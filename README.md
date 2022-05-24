@@ -2,9 +2,7 @@
   
 <div>  
    <div>
-     <img>
     <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-     </img>
   </div>
 I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack developer, a keen learner and Android Dev enthusiast. I have learned web development and having absolute knowledge of HTML, CSS & Javascript and React.js. Beside that I am also learning Java, technology excites me, development explains me and also having basic knowledge of Android Development. 
 </div>

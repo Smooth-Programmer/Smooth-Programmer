@@ -1,6 +1,13 @@
 ### <h1>Hi there,  I'm <a href="https://www.linkedin.com/in/jaskaran-techno/" target="_blank"> Jaskaran Singh </a><img src="https://github.com/Abhi6722/Abhi6722/blob/main/Hi.gif" width="30px"></h1>
   
 <div class="container">
+  <p align="right">
+      <img width="400px" 
+      src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g"
+      alt=""
+      class="src"
+    />
+  </p>
      <p align="left">
       I'm currently pursuing graduation from KIET Group of Institutions in
       Electrical & Electronics Engineering. I'm a full stack developer, a keen
@@ -10,13 +17,7 @@
       me and also having basic knowledge of Android Development.
      </p>
     </div>
-    <p align="right">
-      <img width="400px" 
-      src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g"
-      alt=""
-      class="src"
-    />
-  </p>
+    
   <style>
     .container{
       margin-right: 26rem;

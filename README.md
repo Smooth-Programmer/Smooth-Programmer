@@ -2,7 +2,7 @@
   
 <div>  
    <div>
-    <img align=right alt="dev.giphy" width=400px src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g" /img>
+    <img align=left alt="dev.giphy" width=400px src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g" /img>
   </div>
 I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack developer, a keen learner and Android Dev enthusiast. I have learned web development and having absolute knowledge of HTML, CSS & Javascript and React.js. Beside that I am also learning Java, technology excites me, development explains me and also having basic knowledge of Android Development. 
 </div>

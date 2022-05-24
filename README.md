@@ -1,15 +1,28 @@
 ### <h1>Hi there,  I'm <a href="https://www.linkedin.com/in/jaskaran-techno/" target="_blank"> Jaskaran Singh </a><img src="https://github.com/Abhi6722/Abhi6722/blob/main/Hi.gif" width="30px"></h1>
   
-<div>  
-   <div>
-    <img>
-     <img align="right" alt="dev.giphy" width=400px src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g" /img>
-     </img>
-  </div>
-  <div>
-I'm currently pursuing graduation from KIET Group of Institutions in Electrical & Electronics Engineering. I'm a full stack developer, a keen learner and Android Dev enthusiast. I have learned web development and having absolute knowledge of HTML, CSS & Javascript and React.js. Beside that I am also learning Java, technology excites me, development explains me and also having basic knowledge of Android Development. 
-     
-</div>
+<div class="container">
+     <p align="left">
+      I'm currently pursuing graduation from KIET Group of Institutions in
+      Electrical & Electronics Engineering. I'm a full stack developer, a keen
+      learner and Android Dev enthusiast. I have learned web development and
+      having absolute knowledge of HTML, CSS & Javascript and React.js. Beside
+      that I am also learning Java, technology excites me, development explains
+      me and also having basic knowledge of Android Development.
+     </p>
+    </div>
+    <p align="right">
+      <img width="400px" 
+      src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g"
+      alt=""
+      class="src"
+    />
+  </p>
+  <style>
+    .container{
+      margin-right: 26rem;
+      display: inline-block;
+    }
+  </style>
    
 
 

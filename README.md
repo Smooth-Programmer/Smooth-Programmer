@@ -52,7 +52,7 @@ alt="postman" width="36" height="36"/> </a>
 - 🌱 I’m currently learning MERN Stack 
 - 💬 Ask me about Web Development 
 - 🤟 Fun Fact : I make to re-create	
-- 📫 How to reach me: Mail me at : developer.micko@gmail.com 
+- 📫 How to reach me - Mail me at : developer.micko@gmail.com 
     
 <div>
   <h3>Social

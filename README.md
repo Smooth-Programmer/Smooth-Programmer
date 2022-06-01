@@ -10,7 +10,7 @@
   
   <h3>About me
   </h3>
-  <div text-align="left">
+  <div>
   I'm a full stack developer, a keen learner and Android Dev enthusiast. I have learned web development and having absolute knowledge of HTML, CSS & Javascript and React.js. Beside that I am also learning Java, technology excites me, development explains me and also curious to explore in the domain of Android Development. 
     
      <img align="right" height="250px" width="250px" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?t=st=1654091029~exp=1654091629~hmac=dbbb19b0fb05e3d4c9cc62c84be87538b633b8675016787a08436799eccdcff6&w=996" </img>

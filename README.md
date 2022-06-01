@@ -1,7 +1,7 @@
 ### <h1>Hi there,  I'm <a href="https://www.linkedin.com/in/jaskaran-techno/" target="_blank"> Jaskaran Singh </a><img src="https://github.com/Abhi6722/Abhi6722/blob/main/Hi.gif" height="30px" width="30px"></h1>
   
   <div>
-  <h2> A passionate Full Stack Developer from India.
+  ### A passionate Full Stack Developer from India.
     <div margin-top="1rem">
     <img height="300px" width="400px" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.2.2147376809.1654090902" </img>
     </div>

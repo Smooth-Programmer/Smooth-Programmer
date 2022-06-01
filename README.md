@@ -1,7 +1,7 @@
 ### <h1>Hi there,  I'm <a href="https://www.linkedin.com/in/jaskaran-techno/" target="_blank"> Jaskaran Singh </a><img src="https://github.com/Abhi6722/Abhi6722/blob/main/Hi.gif" height="30px" width="30px"></h1>
   
   <div tex-align="center">
-  <h2> A passionate Full Stack Developer with absolute knowledge of HTML, CSS & Javascript and React.js
+  <h2> A passionate Full Stack Developer
   </div>
   
    <div>

@@ -1,5 +1,9 @@
 ### <h1>Hi there,  I'm <a href="https://www.linkedin.com/in/jaskaran-techno/" target="_blank"> Jaskaran Singh </a><img src="https://github.com/Abhi6722/Abhi6722/blob/main/Hi.gif" height="30px" width="30px"></h1>
   
+  <div>
+  <h2> A passionate Full Stack Developer with absolute knowledge of HTML, CSS & Javascript and React.js
+  </div>
+  
    <div>
     <img>
      <img align="right" alt="dev.giphy" height="250px" width=250px src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g" /img>

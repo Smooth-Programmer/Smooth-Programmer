@@ -1,19 +1,16 @@
 ### <h1>Hi there,  I'm <a href="https://www.linkedin.com/in/jaskaran-techno/" target="_blank"> Jaskaran Singh </a><img src="https://github.com/Abhi6722/Abhi6722/blob/main/Hi.gif" height="30px" width="30px"></h1>
   
-  <div tex-align="center">
+  <div>
   <h2> A passionate Full Stack Developer from India.
+    <img src="https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281.htm#query=web%20design&position=0&from_view=search" </img>
   </div>
   
-   <div>
-    
-  </div>
+   
   
   <h3>About me
   </h3>
   <div>
   I'm a full stack developer, a keen learner and Android Dev enthusiast. I have learned web development and having absolute knowledge of HTML, CSS & Javascript and React.js. Beside that I am also learning Java, technology excites me, development explains me and also curious to explore in the domain of Android Development. 
-    
-  
 </div>
 
  ### My Tech Stack

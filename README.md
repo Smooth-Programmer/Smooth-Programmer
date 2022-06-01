@@ -13,7 +13,7 @@
   <div>
   I'm a full stack developer, a keen learner and Android Dev enthusiast. I have learned web development and having absolute knowledge of HTML, CSS & Javascript and React.js. Beside that I am also learning Java, technology excites me, development explains me and also curious to explore in the domain of Android Development. 
     
-    <img src="https://img.freepik.com/free-vector/isometric-people-working-with-technology_52683-19078.jpg?t=st=1654091095~exp=1654091695~hmac=c60757597ef8bb35f4a2e1242a9b09caa08e1473d5ce459e6e2d3d0d33620e9a&w=996>"
+    <img src="https://img.freepik.com/free-vector/isometric-people-working-with-technology_52683-19078.jpg?t=st=1654091095~exp=1654091695~hmac=c60757597ef8bb35f4a2e1242a9b09caa08e1473d5ce459e6e2d3d0d33620e9a&w=996>" </img>
 </div>
 
  ### My Tech Stack

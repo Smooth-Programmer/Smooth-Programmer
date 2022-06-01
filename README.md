@@ -2,15 +2,11 @@
   
   <div tex-align="center">
   <h2> A passionate Full Stack Developer and Android Dev Enthusiast.
-    =========================================
-    <div>
-    <img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?t=st=1654091029~exp=1654091629~hmac=dbbb19b0fb05e3d4c9cc62c84be87538b633b8675016787a08436799eccdcff6&w=996" height="300px" width="300px" </img>
-    </div>
   </div>
   
    <div>
     <img>
-     <img align="right" alt="dev.giphy" height="250px" width=250px src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g" /img>
+     <img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?t=st=1654091029~exp=1654091629~hmac=dbbb19b0fb05e3d4c9cc62c84be87538b633b8675016787a08436799eccdcff6&w=996" height="300px" width="300px" </img>
      </img>
   </div>
   

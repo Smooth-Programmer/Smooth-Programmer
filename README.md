@@ -3,9 +3,6 @@
   <div>
  <h2>A passionate Full Stack Developer from India.
    <img align="right" height="300px" width="400px" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.2.2147376809.1654090902" </img>
-    <div>
-    
-    </div>
   </div>
   
    

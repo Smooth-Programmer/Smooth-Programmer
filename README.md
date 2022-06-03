@@ -12,10 +12,12 @@
   <div margin-top="0rem" margin-bottom="5rem">
      <img align="right" height="300px" width="400px" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.2.2147376809.1654090902" </img>
   </div>
-  <h6></h6>
+  <h6>
   <div text-align="left">
   I'm a full stack developer, a keen learner and Android Dev enthusiast, having absolute knowledge of HTML, CSS & Javascript and React.js. Beside that I am also learning Java, technology excites me, development explains me and also curious to explore in the domain of Android Development.
+</h6>
 </div>
+
 
  ### My Tech Stack
 

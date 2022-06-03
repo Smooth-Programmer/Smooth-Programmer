@@ -37,7 +37,7 @@ alt="postman" width="36" height="36"/> </a>
 </p>
      
    <div>
-  <h3>Tools
+  <h3>Tools & IDE's
     <p>
     <div>
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />

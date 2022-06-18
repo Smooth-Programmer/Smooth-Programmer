@@ -60,11 +60,7 @@ alt="postman" width="36" height="36"/> </a>
   <h3>Social
     <p>
 <div>
-<a  href="https://www.facebook.com/profile.php?id=100041770744715" target="_blank"><img alt="Facebook" src=https://img.shields.io/badge/Facebook-%23FF0000.svg?style=for-the-badge&logo=Facebook&logoColor=white /></a>
-<a  href="https://www.instagram.com/iamjsmofficial/" target="_blank"><img alt="Instagram" src=https://img.shields.io/badge/Instagram-%23FF0000.svg?style=for-the-badge&logo=Instagram&logoColor=white /></a>
-<a  href=https://www.linkedin.com/in/jaskaran-techno/ target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/mejaskaransingh" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a  href="https://leetcode.com/Jaskaran-Techno/" target="_blank"><img alt="Leetcode" src=https://img.shields.io/badge/Leetcode-%23FF0000.svg?style=for-the-badge&logo=Leetcode&logoColor=White /></a>
+<p align="left"> <a href="https://www.facebook.com/profile.php?id=100041770744715" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Jaskaran-Techno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jaskarans_.ingh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jaskaran-techno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mejaskaransingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 </div>  
     </p>
   </div>

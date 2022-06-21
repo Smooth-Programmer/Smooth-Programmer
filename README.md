@@ -10,7 +10,7 @@
   <h3>About me
   </h3>
   <div margin-top="0rem" margin-bottom="5rem">
-     <img align="right" height="300px" width="400px" src="https://as2.ftcdn.net/v2/jpg/05/02/37/03/1000_F_502370323_O8pirlqn5PvV7b4XGDciDfrrehZMB9DK.jpg" </img>
+     <img align="right" height="300px" width="400px" src="https://as2.ftcdn.net/v2/jpg/03/89/80/33/1000_F_389803302_XKvzuaFgcu0xRrdhkwoADxU6Bu8anKoB.jpg" </img>
   </div>
   <div text-align="left">
   I'm a full stack developer, a keen learner and Android Dev enthusiast, having absolute knowledge of HTML, CSS & Javascript and React.js. Beside that I am also learning Java, technology excites me, development explains me and also curious to explore in the domain of Android Development.

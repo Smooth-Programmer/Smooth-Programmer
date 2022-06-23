@@ -4,7 +4,7 @@
  <h2>A passionate Full Stack Developer from India. I build modern interactive React UI components for better application performance.
    
   </div>
-  <img src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg&ga=GA1.2.2147376809.1654090902">
+  <img src="https://img.freepik.com/free-photo/ui-ux-concept_416743-17.jpg?size=626&ext=jpg&ga=GA1.2.2147376809.1654090902">
    
   
   <h3>About me

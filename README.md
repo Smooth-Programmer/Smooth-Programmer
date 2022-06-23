@@ -10,7 +10,7 @@
   <h3>About me
   </h3>
   <p align="right">
-      <img width="400px" 
+      <img width="250px" 
       src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g"
       alt=""
       class="src"

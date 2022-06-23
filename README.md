@@ -9,9 +9,13 @@
   
   <h3>About me
   </h3>
-  <div margin-top="0rem" margin-bottom="5rem">
-     <img align="right" height="300px" width="400px" src="https://as2.ftcdn.net/v2/jpg/03/89/80/33/1000_F_389803302_XKvzuaFgcu0xRrdhkwoADxU6Bu8anKoB.jpg" </img>
-  </div>
+  <p align="right">
+      <img width="400px" 
+      src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g"
+      alt=""
+      class="src"
+    />
+  </p>
   <div text-align="left">
   I'm a full stack developer, a keen learner and Android Dev enthusiast, having absolute knowledge of HTML, CSS & Javascript and React.js. Beside that I am also learning Java, technology excites me, development explains me and also curious to explore in the domain of Android Development.
 </div>

@@ -51,7 +51,7 @@ alt="postman" width="36" height="36"/> </a>
    
 - 🔭 I’m currently working on full stack projects
 - 🌱 I’m currently learning MERN Stack 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Web Development & Design
 - 🤟 Fun Fact : I make to re-create	
 - 📫 How to reach me - Mail me at : developer.micko@gmail.com 
     

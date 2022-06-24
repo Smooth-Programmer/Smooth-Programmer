@@ -4,8 +4,13 @@
  <h2>A passionate Full Stack Developer from India. I build modern interactive React UI components for better application performance.
    
   </div>
-  <img align=right width="450px" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.2.2147376809.1654090902">
-   
+   <p align="right">
+      <img width="400px" 
+      src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g"
+      alt=""
+      class="src"
+    />
+  </p>
   
   <h3>About me
   </h3>

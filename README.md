@@ -4,6 +4,12 @@
  <h2>A passionate Full Stack Developer from India. I build modern interactive React UI components for better application performance.
    
   </div>
+  
+  
+  <h3>About me
+  </h3>
+
+  I'm a full stack developer, a keen learner and Android Dev enthusiast, having absolute knowledge of HTML, CSS & Javascript and React.js. Beside that I am also learning Java, technology excites me, development explains me and also curious to explore in the domain of Android Development.
    <p align="right">
       <img width="400px" 
       src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g"
@@ -11,11 +17,6 @@
       class="src"
     />
   </p>
-  
-  <h3>About me
-  </h3>
-
-  I'm a full stack developer, a keen learner and Android Dev enthusiast, having absolute knowledge of HTML, CSS & Javascript and React.js. Beside that I am also learning Java, technology excites me, development explains me and also curious to explore in the domain of Android Development.
 </div>
 
 

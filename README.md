@@ -77,8 +77,6 @@ alt="postman" width="36" height="36"/> </a>
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jaskaran-Techno)  
 
-<a href="http://www.github.com/Jaskaran-Techno"><img src="https://activity-graph.herokuapp.com/graph?username=Jaskaran-Techno&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 ![Profile views](https://gpvc.arturio.dev/Jaskaran-Techno)
   
   

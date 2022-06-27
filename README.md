@@ -75,6 +75,8 @@ alt="postman" width="36" height="36"/> </a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaskaran-Techno&show_icons=true&count_private=true)  
     
+    <a href="http://www.github.com/Jaskaran-Techno"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaskaran-Techno&stroke=000000&background=ffffff&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+    
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jaskaran-Techno)  
 
 ![Profile views](https://gpvc.arturio.dev/Jaskaran-Techno)

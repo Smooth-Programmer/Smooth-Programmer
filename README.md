@@ -69,15 +69,15 @@ alt="postman" width="36" height="36"/> </a>
 
   <div>
 
- ### Github Stat Cards
-    
- <a href="https://github.com/Jaskaran-Techno" layout="compact" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran-Techno&langs_count=10&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>   
+ ### Github Stat Cards   
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran-Techno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaskaran-Techno&show_icons=true&count_private=true)  
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jaskaran-Techno)  
+    
+<a href="http://www.github.com/Jaskaran-Techno"><img src="https://activity-graph.herokuapp.com/graph?username=Jaskaran-Techno&bg_color=ffffff&color=000000&line=3382ed&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>    
 
 ![Profile views](https://gpvc.arturio.dev/Jaskaran-Techno)
   

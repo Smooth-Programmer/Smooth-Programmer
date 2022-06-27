@@ -71,6 +71,8 @@ alt="postman" width="36" height="36"/> </a>
 
  ### Github Stat Cards
     
+ <a href="https://github.com/Jaskaran-Techno" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran-Techno&langs_count=10&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>   
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran-Techno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaskaran-Techno&show_icons=true&count_private=true)  

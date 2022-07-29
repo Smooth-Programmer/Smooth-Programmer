@@ -52,15 +52,15 @@
 - 📫 How to reach me - Mail me at : developer.micko@gmail.com 
     
 <div>
-  <h3>Social
+  <h3>Connect with me
     <p>
 <div>
 <p align="left"> 
-  <a href="https://www.facebook.com/profile.php?id=100041770744715" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/jaskarans_.ingh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://www.github.com/Jaskaran-Techno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/jaskaran-techno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-  <a href="https://www.twitter.com/mejaskaransingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100041770744715" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="35" /></a>
+  <a href="http://www.instagram.com/jaskarans_.ingh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="35" /></a>
+  <a href="https://www.github.com/Jaskaran-Techno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="35" /></a> 
+  <a href="https://www.linkedin.com/in/jaskaran-techno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="35" /></a> 
+  <a href="https://www.twitter.com/mejaskaransingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="50" height="35" /></a>
   <a href="https://www.leetcode.com/jaskaran-techno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaskaran-techno" height="50" width="35" /></a> 
   </p>
 </div>  

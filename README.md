@@ -61,7 +61,7 @@
   <a href="https://www.github.com/Jaskaran-Techno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/jaskaran-techno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   <a href="https://www.twitter.com/mejaskaransingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  <a href="https://www.leetcode.com/jaskaran-techno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaskaran-techno" height="40" width="30" /></a> 
+  <a href="https://www.leetcode.com/jaskaran-techno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaskaran-techno" height="50" width="20" /></a> 
   </p>
 </div>  
     </p>

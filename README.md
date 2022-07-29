@@ -10,7 +10,7 @@
   </h3>
   <div>
 <p text-align="left">
-  I'm a full stack developer, having absolute knowledge of HTML, CSS & Javascript, React.js, MongoDB, Node.js. Beside that I am also learning Java, technology excites me, development explains me, I'm currently looking for full time job opportunities to serve as a Software Development Engineer or an Intern.</p>
+  I'm a Full Stack Developer, having absolute knowledge of HTML, CSS & Javascript, React.js, MongoDB, Node.js. Beside that I am also learning Java, technology excites me, development explains me, I'm currently looking for full time job opportunities to serve as a Software Development Engineer or an Intern.</p>
    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g"
 </div>
 
@@ -45,8 +45,8 @@
    </p>
   </div>
    
-- 🔭 I’m currently working on full stack projects
-- 🌱 I’m currently learning MERN Stack 
+- 🔭 I’m currently working on Full Stack projects
+- 🌱 I’m currently learning Data Structures & Algorithms 
 - 💬 Ask me about Web Development & Design
 - 🤟 Fun Fact : I make to re-create	
 - 📫 How to reach me - Mail me at : developer.micko@gmail.com 

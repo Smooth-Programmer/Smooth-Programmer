@@ -10,7 +10,7 @@
   </h3>
   <div>
 <p text-align="left">
-  I'm a Full Stack Developer, expertise with measuring skills HTML5, CSS3 & JavaScript, React.js, MongoDB, Node.js. Beside that I am also learning Java, technology excites me, development explains me, I'm currently looking for full time job opportunities to serve as a Software Development Engineer or an Intern.</p>
+  I'm a Full Stack Developer, expertise with measuring skills JavaScript, React.js, MongoDB, Angular.js, Node.js. Fascinated towards Blockchain Development, development defines me well, technology makes me sensical, I'm currently looking for full time job opportunities to serve as a Software Development Engineer or an Intern.</p>
    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g"
 </div>
 

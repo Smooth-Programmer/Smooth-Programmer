@@ -49,10 +49,11 @@
    </p>
   </div>
    
-- 🔭 I’m currently working on Full Stack projects
-- 🌱 I’m currently learning Data Structures & Algorithms 
-- 💬 Ask me about Web Development & Design
-- 🤟 Fun Fact : I make to re-create	
+- 🔭 I’m currently working on Full Stack projects.
+- 🌱 I’m currently learning Solidity.
+- 👯 I'm looking to collaborate on Blockchain databases & projects.
+- 💬 Ask me about React.js, Angular.js, Node.js
+- 🤟 Fun Fact : The Ocean 🌊 of my mind never fills.	
 - 📫 How to reach me - Mail me at : developer.micko@gmail.com 
     
 <div>

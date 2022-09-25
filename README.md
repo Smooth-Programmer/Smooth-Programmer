@@ -49,6 +49,7 @@
    </p>
   </div>
    
+   <h3>Progress & Facts
 - 🔭 I’m currently working on Full Stack projects.
 - 🌱 I’m currently learning Solidity.
 - 👯 I'm looking to collaborate on Blockchain databases & projects.

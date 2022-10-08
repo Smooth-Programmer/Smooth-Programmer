@@ -54,7 +54,7 @@
 - 🔭 I’m currently working on Full Stack projects.
 - 🌱 I’m currently learning Solidity.
 - 👯 I'm looking to collaborate on Blockchain databases & projects.
-- 💬 Ask me about React.js, Angular.js, Node.js
+- 💬 Ask me about React.js, Angular.js, Node.js, Linux
 - 🤟 Fun Fact : The Ocean 🌊 of my mind never fills.	
 - 📫 How to reach me - Mail me at : developer.micko@gmail.com 
     

@@ -10,7 +10,7 @@
   </h3>
   <div>
 <p text-align="left">
-  I'm a Full Stack Developer, expertise with measuring skills JavaScript, React.js, MongoDB, Angular.js, Node.js. Fascinated towards Blockchain Development, development defines me well, technology makes me sensical, I'm currently looking for full time job opportunities to serve as a Software Development Engineer or an Intern.</p>
+  I'm a Full Stack Developer, expertise with measuring skills JavaScript, React.js, MongoDB, Angular.js, Node.js. Fascinated towards Penetration Testing, development defines me well, technology makes me sensical, I'm currently looking for full time job opportunities to serve as a Software Development Engineer or an Intern.</p>
    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g"
 </div>
 
@@ -52,10 +52,10 @@
   </div>
    
 - 🔭 I’m currently working on Full Stack projects.
-- 🌱 I’m currently learning Solidity.
-- 👯 I'm looking to collaborate on Blockchain databases & projects.
-- 💬 Ask me about React.js, Angular.js, Node.js, Linux
-- 🤟 Fun Fact : The Ocean 🌊 of my mind never fills.	
+- 🌱 I’m currently learning metasploit & Wireshark.
+- 👯 I'm looking to collaborate on Web Development & cybersecurity projects.
+- 💬 Ask me about React.js, Angular.js, Node.js, Linux, metasploit, wireshark.
+- 🤟 Fun Fact : You don't wanna mess with with a White Hat Hacker.	
 - 📫 How to reach me - Mail me at : developer.micko@gmail.com 
     
 <div>

@@ -55,7 +55,7 @@
 - 🌱 I’m currently learning Graphql & Linux.
 - 👯 I'm looking to collaborate on Web Development & cybersecurity projects.
 - 💬 Ask me about React.js, Angular.js, Node.js, Linux, metasploit, wireshark.
-- 🤟 Fun Fact : You don't wanna mess with with a White Hat Hacker.	
+- 🤟 Fun Fact : The first programmer was the daughter of the mad poet.
 - 📫 How to reach me - Mail me at : developer.micko@gmail.com 
     
 <div>

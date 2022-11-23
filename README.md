@@ -54,7 +54,7 @@
 - 🔭 I’m currently working on Full Stack projects.
 - 🌱 I’m currently learning Application development plugins & wizards.
 - 👯 I'm looking to collaborate on Application & IOS Development projects.
-- 💬 Ask me about React.js, Angular.js, Node.js, Firebase.
+- 💬 Ask me about React.js, Node.js, MongoDB, Firebase.
 - 🤟 Fun Fact : The first programmer was the daughter of the mad poet.
 - 📫 How to reach me - Mail me at : developer.micko@gmail.com 
     

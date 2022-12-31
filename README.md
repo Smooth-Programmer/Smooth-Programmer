@@ -10,7 +10,7 @@
   </h3>
   <div>
 <p text-align="left">
-  I'm a Full Stack Developer, expertise with measuring skills JavaScript, React.js, Node.js, MongoDB, webpack, Firebase, Figma. Fascinated towards IOS Development, development defines me well, technology makes me sensical, I'm currently looking for full time job opportunities to serve as a Software Development Engineer or an Intern.</p>
+  I'm a Full Stack Developer, expertise with measuring skills JavaScript, React.js, Node.js, MongoDB, webpack, Firebase, Figma. Fascinated towards Application Development, development defines me well, technology makes me sensical, I'm currently looking for full time job opportunities to serve as a Software Development Engineer or an Intern.</p>
    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g"
 </div>
 
@@ -53,7 +53,7 @@
    
 - 🔭 I’m currently working on Full Stack projects.
 - 🌱 I’m currently learning Application development plugins & wizards.
-- 👯 I'm looking to collaborate on Application & IOS Development projects.
+- 👯 I'm looking to collaborate on Application & Web Development projects.
 - 💬 Ask me about React.js, Node.js, MongoDB, Firebase.
 - 🤟 Fun Fact : The first programmer was the daughter of the mad poet.
 - 📫 How to reach me - Mail me at : developer.micko@gmail.com 

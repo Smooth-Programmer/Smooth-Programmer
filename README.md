@@ -31,7 +31,7 @@
 </p>
      
    <div>
-  <h3>Tools & IDE's
+  <h3>Developer Tools
     <p>
     <div>
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -44,8 +44,8 @@
    
 - 🔭 I’m currently working on Full Stack projects.
 - 🌱 I’m currently learning Application development.
-- 👯 I'm looking to collaborate on Application & Web Development projects.
-- 💬 Ask me about React.js, Node.js, MongoDB, Firebase.
+- 👯 I'm looking to collaborate on Application Development projects.
+- 💬 Ask me about Javascript, React.js, Node.js, MongoDB.
 - 🤟 Fun Fact : The first programmer was the daughter of the mad poet.
 - 📫 How to reach me - Mail me at : developer.micko@gmail.com 
     

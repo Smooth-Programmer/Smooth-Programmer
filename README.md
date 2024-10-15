@@ -55,7 +55,6 @@
 <p align="left"> 
   <a href="https://www.facebook.com/profile.php?id=100041770744715" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="35" /></a>
   <a href="http://www.instagram.com/jaskaran_singhhhhhh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="35" /></a>
-  <a href="https://www.github.com/Jaskaran-Techno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="35" /></a> 
   <a href="https://www.linkedin.com/in/jaskaran-techno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="35" /></a> 
   <a href="https://www.twitter.com/mejaskaransingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="50" height="35" /></a>
 <a href="https://discord.com/users/@Jaskaran Singh#3849" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="35" /></a> 

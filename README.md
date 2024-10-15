@@ -10,7 +10,7 @@
   </h3>
   <div>
 <p text-align="left">
-  I'm a self-taught Full Stack Developer, expertise with measuring skills JavaScript, React.js, Node.js, MongoDB, Firebase, Figma. Fascinated towards Application Development, development defines me well, technology makes me sensical, because of this I am able to leverage both my formal education as well as my experience as a self-taught developer to create the most comprehensive and easy applications for you. I'm currently working for Accenture as a Software Engineer.</p>
+  I'm a self-taught Full Stack Developer, Fascinated towards Application Development, development defines me well, technology makes me sensical, because of this I am able to leverage both my formal education as well as my experience as a self-taught developer to create the most comprehensive and easy applications for you. I'm currently working for Accenture as a Software Engineer.</p>
    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghkyjqw67pzmf26osqwm8vuffcs4l8cyv5wxc0fg&rid=giphy.gif&ct=g"
 </div>
 

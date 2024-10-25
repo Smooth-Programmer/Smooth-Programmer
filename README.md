@@ -41,11 +41,11 @@
    </p>
   </div>
    
-- 🔭 I’m currently working on Full Stack projects.
+- 🔭 I’m currently working on Backend development.
 - 🌱 I’m currently learning Application development.
-- 👯 I'm looking to collaborate on Application Development projects.
+- 👯 I'm looking to collaborate on Advanced Tech projects.
 - 💬 Ask me about Javascript, React.js, Node.js, MongoDB.
-- 🤟 Fun Fact : The first programmer was the daughter of the mad poet.
+- 🤟 Fun Fact : The DRY principle (Don't Repeat Yourself) encourages programmers to avoid redundancy by creating reusable code, which makes programs easier to maintain and understand.
 - 📫 How to reach me - Mail me at : developer.micko@gmail.com 
     
 <div>

@@ -1,7 +1,7 @@
 ### <h1>Hi there,  I'm <a href="https://www.linkedin.com/in/jaskaran-techno/" target="_blank"> Jaskaran Singh </a><img src="https://github.com/Abhi6722/Abhi6722/blob/main/Hi.gif" height="30px" width="30px"></h1>
   
   <div justify-content="center">
- <h2> Software Engineer, Full Stack Developer. I write modern interactive end-to-end codebases for better application performance.
+ <h2> Software Engineer, Full Stack Developer. Mastering Modern Tech Stacks to Deliver Impactful Results. Creating Robust Applications with Clean Code. Merging Design and Functionality for Optimal Performance.
    
   </div>
   

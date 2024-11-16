@@ -1,4 +1,4 @@
-###<h1>Hi There, I'm Jaskaran Singh</h1>
+<h1>Hi There, I'm Jaskaran Singh</h1>
   
   <div justify-content="center">
  <h2> Empowering Modern Tech Stacks to Deliver Impactful Results. Creating Robust Applications with Clean Code. Merging Design and Functionality for Optimal Performance.

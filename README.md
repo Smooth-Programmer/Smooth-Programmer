@@ -1,4 +1,3 @@
-<h1> Hi There I'm </h1>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Jaskaran+Singh;A+Full+Stack+Developer;Driven+Software+Engineer)](https://git.io/typing-svg)
   
   <div justify-content="center">

@@ -1,4 +1,4 @@
-<h1>Hi There, I'm Jaskaran Singh</h1>
+<h1>Hi There, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Jaskaran+Singh;A+Full+Stack+Developer;Driven+Software+Engineer)](https://git.io/typing-svg)</h1>
   
   <div justify-content="center">
  <h2> Empowering Modern Tech Stacks to Deliver Impactful Results. Creating Robust Applications with Clean Code. Merging Design and Functionality for Optimal Performance.

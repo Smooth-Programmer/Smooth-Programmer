@@ -1,5 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Latin&weight=900&size=35&pause=500&color=3D8AF7&width=460&height=60&lines=Jaskaran+Singh;A+Full+Stack+Developer;Driven+Software+Engineer)](https://git.io/typing-svg) 
-  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Latin&weight=900&size=35&pause=500&color=3D8AF7&width=536&height=60&lines=Hi+There%2C+I'm+Jaskaran+Singh;I'm+a+Full+Stack+Developer;Driven+Software+Engineer)](https://git.io/typing-svg)
   <div justify-content="center">
  <h2> Empowering Modern Tech Stacks to Deliver Impactful Results. Creating Robust Applications with Clean Code. Merging Design and Functionality for Optimal Performance.
    

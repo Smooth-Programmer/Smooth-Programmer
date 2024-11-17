@@ -74,7 +74,7 @@
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jaskaran-Techno)  
 
-[![](https://visitcount.itsvg.in/api?id=Jaskaran-Techno&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
   
   
 ### Support Me

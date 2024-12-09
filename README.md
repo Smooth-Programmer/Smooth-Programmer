@@ -3,6 +3,7 @@
  <h2> Empowering Modern Tech Stacks to Deliver Impactful Results. Creating Robust Applications with Clean Code. Merging Design and Functionality for Optimal Performance.
    
   </div>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=841&color=FFA500&width=442&lines=The+Technology+that+Connects+us%2C;Also+Monetizes+Us.;Also+Controls+Us.;Also+Divides+Us.;Also+Manipulates+Us.)](https://git.io/typing-svg)
   
   
   <h3>About me

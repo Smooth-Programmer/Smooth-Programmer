@@ -29,7 +29,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="40" alt="Figma" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </p>
      
    <div>
@@ -48,9 +47,9 @@
   </div>
    
 - 🔭 I’m currently working on Backend development.
-- 🌱 I’m currently learning Application development.
+- 🌱 I’m currently learning Operating Systems and Network Security.
 - 👯 I'm looking to collaborate on Advanced Tech projects.
-- 💬 Ask me about Javascript, React.js, Node.js, MongoDB.
+- 💬 Ask me about Javascript, React.js, Node.js, MongoDB, Linux.
 - 🤟 Fun Fact : The DRY principle (Don't Repeat Yourself) encourages programmers to avoid redundancy by creating reusable code, which makes programs easier to maintain and understand.
 - 📫 How to reach me - Mail me at : developer.micko@gmail.com 
     

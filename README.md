@@ -1,6 +1,6 @@
 <h1 align="center">Developer-Ninjaa</h1>
 
-![image alt](https://github.com/Developer-Ninjaa/Developer-Ninjaa/blob/7cd80f5300a02ff4e28c4b74141b5cac0bb8bfbb/flat-design-ninja-logo-template_23-2149017451.jpg)
+<img src="https://github.com/Developer-Ninjaa/Developer-Ninjaa/blob/7cd80f5300a02ff4e28c4b74141b5cac0bb8bfbb/flat-design-ninja-logo-template_23-2149017451.jpg" width="200"/>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Latin&weight=900&size=35&pause=500&color=3D8AF7&width=542&height=60&lines=Hi+There%2C+I'm+Jaskaran+Singh.;I'm+a+Full+Stack+Developer.;Driven+Software+Engineer.;A+Keen+Tech+Enthusiast.)](https://git.io/typing-svg)
   <div justify-content="center">

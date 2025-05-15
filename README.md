@@ -82,18 +82,18 @@
 
  ### Github Stat Cards   
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran-Techno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Ninjaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaskaran-Techno&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Ninjaa&show_icons=true&count_private=true)  
     
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jaskaran-Techno)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Ninjaa)  
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
   
   
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/Jaskaran-Techno"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/Developer-Ninjaa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
   
   
   

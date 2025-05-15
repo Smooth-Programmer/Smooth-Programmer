@@ -1,4 +1,4 @@
-<div display="flex">
+<div align="center" display="flex">
 <h1>Developer-Ninjaa</h1>
 
 <img src="https://github.com/Developer-Ninjaa/Developer-Ninjaa/blob/7cd80f5300a02ff4e28c4b74141b5cac0bb8bfbb/flat-design-ninja-logo-template_23-2149017451.jpg"  width="200"/>

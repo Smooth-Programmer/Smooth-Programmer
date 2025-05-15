@@ -1,6 +1,6 @@
 <div align="center" display="flex">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&weight=900&size=36&pause=1000&color=F77142&width=450&lines=Developer-Ninjaa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&weight=900&size=36&pause=1000&color=F77142&height=65&width=450&lines=Developer-Ninjaa)](https://git.io/typing-svg)
 
 <img src="https://github.com/Developer-Ninjaa/Developer-Ninjaa/blob/7cd80f5300a02ff4e28c4b74141b5cac0bb8bfbb/flat-design-ninja-logo-template_23-2149017451.jpg"  width="250"/>
 </div>

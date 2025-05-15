@@ -1,6 +1,6 @@
 <h1 align="center">Developer-Ninjaa</h1>
 
-![Ninja](https://example.com/ninja.png)
+![Ninja](https://www.freepik.com/free-vector/flat-design-ninja-logo-template_15635615.htm#from_element=cross_selling__vector)
 
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Latin&weight=900&size=35&pause=500&color=3D8AF7&width=542&height=60&lines=Hi+There%2C+I'm+Jaskaran+Singh.;I'm+a+Full+Stack+Developer.;Driven+Software+Engineer.;A+Keen+Tech+Enthusiast.)](https://git.io/typing-svg)

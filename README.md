@@ -54,13 +54,14 @@
       </div>  
    </p>
   </div>
-   
-- 🔭 I’m currently working on Backend development.
-- 🌱 I’m currently learning Operating Systems and Network Security.
-- 👯 I'm looking to collaborate on Advanced Tech projects.
-- 💬 Ask me about Javascript, React.js, Node.js, MongoDB, Linux.
-- 🤟 Fun Fact : The DRY principle (Don't Repeat Yourself) encourages programmers to avoid redundancy by creating reusable code, which makes programs easier to maintain and understand.
-- 📫 How to reach me - Mail me at : developer.micko@gmail.com 
+    
+* 🌍  I'm based in New Delhi
+* 🖥️  See my portfolio at [Developer-Ninjaa](http://sdkcndslkncdskc)
+* ✉️  You can contact me at [developer.micko@gmail.com](mailto:developer.micko@gmail.com)
+* 🚀  I'm currently working on [React +Vite, Node.js](http://sldnvlnzdcmksdmc)
+* 🧠  I'm learning Node.js & GraphQL
+* 🤝  I'm open to collaborating on Advanced Tech projects.
+* ⚡  I'm secretly Spider Man ... Don't tell anyone 🕷️
     
 <div>
   <h3>Connect with me

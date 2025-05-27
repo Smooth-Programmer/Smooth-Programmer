@@ -14,7 +14,7 @@
   </div>
   
   
-  <h3>About me
+  <h3> 🚀 About me
   </h3>
   <div>
 <p text-align="left">
@@ -22,7 +22,7 @@
 </div>
 
 
- ### My Tech Stack
+ ### 🚀 My Tech Stack
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="40" alt="HTML5" /></a>
@@ -41,7 +41,7 @@
 </p>
      
    <div>
-  <h3>Developer Tools
+  <h3> 🚀 Developer Tools & IDE's
     <p>
     <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
@@ -64,7 +64,7 @@
 * ⚡  I'm secretly Spider Man ... Don't tell anyone 🕷️
     
 <div>
-  <h3>Connect with me
+  <h3> 🚀 Connect with me
     <p>
 <div>
 <p align="left"> 
@@ -82,7 +82,7 @@
 
   <div>
 
- ### Github Stat Cards   
+ ### 🚀 Github Stat Cards   
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Ninjaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -93,7 +93,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
   
   
-### Support Me
+### 🚀 Support Me
 
 <a href="https://www.buymeacoffee.com/Developer-Ninjaa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
   

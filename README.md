@@ -56,7 +56,7 @@
   </div>
     
 * 🌍  I'm based in New Delhi
-* 🖥️  See my portfolio at [Developer-Ninjaa](https://developer-ninjaaa.netlify.app/)
+* 🖥️  See my portfolio at [Developer-Ninjaa](https://developer-ninja.netlify.app/)
 * ✉️  You can contact me at [developer.micko@gmail.com](mailto:developer.micko@gmail.com)
 * 🚀  I'm currently working on [React +Vite, Node.js](http://sldnvlnzdcmksdmc)
 * 🧠  I'm learning Node.js & GraphQL

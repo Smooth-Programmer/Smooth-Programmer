@@ -55,11 +55,11 @@
    </p>
   </div>
     
-* 🌍  I'm based in New Delhi
-* 🖥️  See my portfolio at [Developer-Ninjaa](https://developer-ninja.netlify.app/)
+* 🌍  I'm based in New Delhi, India.
+* 🖥️  See my Portfolio at [Developer-Ninjaa](https://developer-ninjaa.netlify.app/)
 * ✉️  You can contact me at [developer.micko@gmail.com](mailto:developer.micko@gmail.com)
 * 🚀  I'm currently working on [React +Vite, Node.js](http://sldnvlnzdcmksdmc)
-* 🧠  I'm learning Node.js & GraphQL
+* 🧠  I'm learning Node.js & GraphQL.
 * 🤝  I'm open to collaborating on Advanced Tech projects.
 * ⚡  I'm secretly Spider Man ... Don't tell anyone 🕷️
     

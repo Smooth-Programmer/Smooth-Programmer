@@ -59,7 +59,7 @@
 * 🌍  I'm based in New Delhi, India.
 * 🖥️  See my Portfolio at [Developer-Ninjaa](https://developer-ninjaa.netlify.app/)
 * ✉️  You can contact me at [developer.micko@gmail.com](mailto:developer.micko@gmail.com)
-* 🚀  I'm currently working on [React +Vite, Node.js](http://sldnvlnzdcmksdmc)
+* 🚀  I'm currently working on [Node.js & GraphQL](https://www.youtube.com/watch?v=5199E50O7SI)
 * 🧠  I'm learning Node.js & GraphQL.
 * 🤝  I'm open to collaborating on Advanced Tech projects.
 * ⚡  I'm secretly Spider Man ... Don't tell anyone 🕷️

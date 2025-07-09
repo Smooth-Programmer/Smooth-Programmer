@@ -64,7 +64,7 @@
 * 🚀  I'm also in the process of deepening my expertise in [Node.js & GraphQL](https://www.youtube.com/watch?v=5199E50O7SI) — continuously learning and experimenting with new patterns, best practices, and emerging trends to stay sharp and innovative.
 * 🧠 I'm enthusiastic about teaming up with like-minded individuals on advanced technology projects — whether it's a cutting-edge web app, a powerful API, or something entirely experimental.
 * 🤝  I'm open to collaborating on Advanced Tech projects.
-* ⚡  And here's a fun little secret: I'm actually Spider-Man in disguise... but let's keep that between us 🕷️😉
+* ⚡  And here's a fun little secret: I'm actually Spider-Man in disguise... but let's keep that between us 🕷️, you know me very well, you're friendly neighborhood Spider Man 🕸️
     
 <div>
   <h3> 🚀 Connect with me

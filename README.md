@@ -61,7 +61,7 @@
 * ✉️   If you'd like to connect, collaborate, or simply have a tech chat, you can reach me at [developer.micko@gmail.com](mailto:developer.micko@gmail.com) . I'm always open to exciting opportunities and meaningful conversations. 
 * 🚀  I'm also in the process of deepening my expertise in [Node.js & GraphQL](https://www.youtube.com/watch?v=5199E50O7SI) — continuously learning and experimenting with new patterns, best practices, and emerging trends to stay sharp and innovative.
 * ⚡ I regularly write on Medium about software development, web technologies, coding best practices, and my journey as a developer. My blogs are focused on making complex topics simple, sharing real-world experiences, and helping other developers grow.
-You can explore all my blog posts here: [Smooth Programmer](https://medium.com/@jaskaran0201singh)
+You can explore all my blog posts here: [Jaskaran Singh](https://medium.com/@Jaskaran-Singh)
   
 * 🧠 I'm enthusiastic about teaming up with like-minded individuals on advanced technology projects — whether it's a cutting-edge web app, a powerful API, or something entirely experimental.
 * 🤝  I'm open to collaborating on Advanced Tech projects.

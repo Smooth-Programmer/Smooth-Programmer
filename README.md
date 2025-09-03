@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&weight=900&size=36&pause=1000&color=white&height=65&width=450&lines=Smooth-Programmer)](https://git.io/typing-svg)
 
-<img src="blob:https://af9c768f-7884-4dbb-a6f0-8dfcb1b2d2ca-figmaiframepreview.figma.site/d076d9a4-7e78-417e-8db6-b1242df60e9a#filename=314a0e3c894700985a677b7ca5894e19ad85c42e.png" />
+<img src="https://af9c768f-7884-4dbb-a6f0-8dfcb1b2d2ca-figmaiframepreview.figma.site/d076d9a4-7e78-417e-8db6-b1242df60e9a#filename=314a0e3c894700985a677b7ca5894e19ad85c42e.png" />
 </div>
 
 

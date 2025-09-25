@@ -59,7 +59,7 @@
 * 🌍  Hi there! I'm currently based in the vibrant city of New Delhi, India, where I’m actively contributing to the ever-evolving world of technology.
 * 🖥️  Feel free to explore my work through my portfolio where I showcase the projects I've built and the skills I've honed over time. See my Portfolio at [Smooth-Programmer](https://smooth-programmer.netlify.app/)
 * ✉️   If you'd like to connect, collaborate, or simply have a tech chat, you can reach me at [developer.micko@gmail.com](mailto:developer.micko@gmail.com) . I'm always open to exciting opportunities and meaningful conversations. 
-* 🚀  I'm also in the process of deepening my expertise in [Node.js & GraphQL](https://www.youtube.com/watch?v=5199E50O7SI) — continuously learning and experimenting with new patterns, best practices, and emerging trends to stay sharp and innovative.
+* 🚀  I'm also in the process of deepening my expertise in [GraphQL](https://www.youtube.com/watch?v=5199E50O7SI) & [RTL - JEST](https://www.youtube.com/watch?v=8vfQ6SWBZ-U) — continuously learning and experimenting with new patterns, best practices, and emerging trends to stay sharp and innovative.
 * ⚡ I usually write on Medium about software development, web technologies, coding best practices, career growth and my journey as a Software Developer. My blogs are focused on making complex topics simple, sharing real-world experiences, and helping other developers grow.
 You can explore all my blog posts here: [Jaskaran Singh](https://medium.com/@Jaskaran-Singh)
   

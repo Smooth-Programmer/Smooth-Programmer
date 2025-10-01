@@ -19,6 +19,8 @@
   <div>
 <p text-align="left">
   I'm a self-taught Full Stack Developer, A Tech Blogger, Fascinated towards Application Development, Development defines me well, Technology makes me sensical, because of this I am able to leverage both my Formal Education[B.Tech Graduate, 2023] as well as my experience as a self-taught developer to create the most comprehensive and easy applications for you. I'm currently working for Accenture as a Software Engineer.</p>
+    
+![terminal (1)](https://github.com/user-attachments/assets/c15e3115-ea96-4318-a78e-d74ee559ad7e)
 </div>
 
 

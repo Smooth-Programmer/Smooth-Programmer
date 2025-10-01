@@ -91,7 +91,7 @@ You can explore all my blogs here: [Jaskaran Singh](https://medium.com/@Jaskaran
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Smooth-Programmer)  
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+[![Jaskaran Singh profile views](https://u8views.com/api/v1/github/profiles/89383365/views/day-week-month-total-count.svg)](https://u8views.com/github/Smooth-Programmer)
   
   
 ### 🚀 Support Me

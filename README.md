@@ -87,7 +87,7 @@ You can explore all my blogs here: [Jaskaran Singh](https://medium.com/@Jaskaran
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smooth-Programmer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Smooth-Programmer)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Smooth-Programmer)](https://github.com/Smooth-Programmer/github-contribution-stats/)
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Smooth-Programmer)  
 

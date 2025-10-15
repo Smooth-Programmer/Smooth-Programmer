@@ -64,8 +64,10 @@
 * 🚀  I'm also in the process of deepening my expertise in [GraphQL](https://www.youtube.com/watch?v=5199E50O7SI) & [RTL - JEST](https://www.youtube.com/watch?v=8vfQ6SWBZ-U) — continuously learning and experimenting with new patterns, best practices, and emerging trends to stay sharp and innovative.
 * ⚡ I usually write on Medium about software development, web technologies, coding best practices, career growth and my journey as a Software Developer. My blogs are focused on making complex topics simple, sharing real-world experiences, and helping other developers grow.
 You can explore all my blogs here: [Jaskaran Singh](https://medium.com/@Jaskaran-Singh)
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=Jaskaran-Singh&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@Jaskaran-Singh)
-[![Jaskaran Singh](https://github-readme-medium.vercel.app/?username=@Jaskaran-Singh)](https://medium.com/@Jaskaran-Singh)
+## 📝 Latest Medium Articles
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
   
 * 🧠 I'm enthusiastic about teaming up with like-minded individuals on advanced technology projects — whether it's a cutting-edge web app, a powerful API, or something entirely experimental.
 * 🤝  I'm open to collaborating on Advanced Tech projects.

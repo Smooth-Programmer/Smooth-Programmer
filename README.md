@@ -64,17 +64,13 @@
 * 🚀  I'm also in the process of deepening my expertise in [GraphQL](https://www.youtube.com/watch?v=5199E50O7SI) & [RTL - JEST](https://www.youtube.com/watch?v=8vfQ6SWBZ-U) — continuously learning and experimenting with new patterns, best practices, and emerging trends to stay sharp and innovative.
 * ⚡ I usually write on Medium about software development, web technologies, coding best practices, career growth and my journey as a Software Developer. My blogs are focused on making complex topics simple, sharing real-world experiences, and helping other developers grow.
 You can explore all my blogs here: [Jaskaran Singh](https://medium.com/@Jaskaran-Singh)
-## 📝 Latest Medium Articles
+## 📝 My Latest Medium Blogs
 <!-- BLOG-POST-LIST:START -->
 - [️ Props Drilling in React—A Beginner&#39;s Guide.](https://blog.stackademic.com/%EF%B8%8F-props-drilling-in-react-a-beginners-guide-19f43015be92?source=rss-3e53b5bc8fdb------2)
 - [REST API Cheat Sheet for Full Stack Developers.](https://javascript.plainenglish.io/rest-api-cheat-sheet-for-full-stack-developers-a66ca52f9a85?source=rss-3e53b5bc8fdb------2)
 - [️ Java 25 LTS: What Developers Must Know.](https://medium.com/@Jaskaran-Singh/%EF%B8%8F-java-25-lts-what-developers-must-know-71ac76cfeffd?source=rss-3e53b5bc8fdb------2)
 - [️Importance of Blogging as a Software Developer.](https://medium.com/@Jaskaran-Singh/%EF%B8%8Fimportance-of-blogging-as-a-software-developer-d7bda281e765?source=rss-3e53b5bc8fdb------2)
 <!-- BLOG-POST-LIST:END -->
-
-  
-* 🧠 I'm enthusiastic about teaming up with like-minded individuals on advanced technology projects — whether it's a cutting-edge web app, a powerful API, or something entirely experimental.
-* 🤝  I'm open to collaborating on Advanced Tech projects.
     
 <div>
   <h3> 🚀 Connect with me

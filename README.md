@@ -66,6 +66,10 @@
 You can explore all my blogs here: [Jaskaran Singh](https://medium.com/@Jaskaran-Singh)
 ## 📝 Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [️ Props Drilling in React—A Beginner&#39;s Guide.](https://blog.stackademic.com/%EF%B8%8F-props-drilling-in-react-a-beginners-guide-19f43015be92?source=rss-3e53b5bc8fdb------2)
+- [REST API Cheat Sheet for Full Stack Developers.](https://javascript.plainenglish.io/rest-api-cheat-sheet-for-full-stack-developers-a66ca52f9a85?source=rss-3e53b5bc8fdb------2)
+- [️ Java 25 LTS: What Developers Must Know.](https://medium.com/@Jaskaran-Singh/%EF%B8%8F-java-25-lts-what-developers-must-know-71ac76cfeffd?source=rss-3e53b5bc8fdb------2)
+- [️Importance of Blogging as a Software Developer.](https://medium.com/@Jaskaran-Singh/%EF%B8%8Fimportance-of-blogging-as-a-software-developer-d7bda281e765?source=rss-3e53b5bc8fdb------2)
 <!-- BLOG-POST-LIST:END -->
 
   

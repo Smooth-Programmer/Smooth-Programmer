@@ -65,8 +65,8 @@
 * ⚡ I usually write on Medium about software development, web technologies, coding best practices, career growth and my journey as a Software Developer. My blogs are focused on making complex topics simple, sharing real-world experiences, and helping other developers grow.
 You can explore all my blogs here: [Jaskaran Singh](https://medium.com/@Jaskaran-Singh)
 ## 📝 Latest Medium Articles
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
   
 * 🧠 I'm enthusiastic about teaming up with like-minded individuals on advanced technology projects — whether it's a cutting-edge web app, a powerful API, or something entirely experimental.

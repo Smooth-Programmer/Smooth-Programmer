@@ -66,10 +66,10 @@
  Here is my Medium Profile Link: [Jaskaran Singh](https://medium.com/@Jaskaran-Singh) and below are my latest blogs.
 ## 📝 My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [My Interview Experience as a JAVA Developer at Kent RO Systems.](https://medium.com/@Jaskaran-Singh/my-interview-experience-as-a-java-developer-at-kent-ro-systems-4d1e265adb47?source=rss-3e53b5bc8fdb------2)
 - [️ Software Development Methodologies—A Guide to Ace the Process.](https://blog.stackademic.com/%EF%B8%8F-software-development-methodologies-a-guide-to-ace-the-process-446abb80c6e1?source=rss-3e53b5bc8fdb------2)
 - [️ Props Drilling in React—A Beginner&#39;s Guide.](https://blog.stackademic.com/%EF%B8%8F-props-drilling-in-react-a-beginners-guide-19f43015be92?source=rss-3e53b5bc8fdb------2)
 - [REST API Cheat Sheet for Full Stack Developers.](https://javascript.plainenglish.io/rest-api-cheat-sheet-for-full-stack-developers-a66ca52f9a85?source=rss-3e53b5bc8fdb------2)
-- [️ Java 25 LTS: What Developers Must Know.](https://medium.com/@Jaskaran-Singh/%EF%B8%8F-java-25-lts-what-developers-must-know-71ac76cfeffd?source=rss-3e53b5bc8fdb------2)
 <!-- BLOG-POST-LIST:END -->
     
 <div>

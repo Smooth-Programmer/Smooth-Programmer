@@ -68,10 +68,10 @@
  Here is my Medium Profile Link: [Jaskaran Singh](https://medium.com/@Jaskaran-Singh) and below are my latest blogs.
 ## 📝 My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [️ My Software Development Conference Experience with Atlassian.](https://medium.com/@Jaskaran-Singh/%EF%B8%8F-my-software-development-conference-experience-with-atlassian-d762246e0d06?source=rss-3e53b5bc8fdb------2)
 - [How to be a successful public speaker?](https://medium.com/@Jaskaran-Singh/how-to-be-a-successful-public-speaker-49636a798ddb?source=rss-3e53b5bc8fdb------2)
 - [Personal Branding is the New Resume.](https://medium.com/@Jaskaran-Singh/personal-branding-is-the-new-resume-534c7eaf04b9?source=rss-3e53b5bc8fdb------2)
 - [Package Managers: How to sort the efficient one. The ultimate guide.](https://javascript.plainenglish.io/package-managers-how-to-sort-the-efficient-one-the-ultimate-guide-a4a9b72dddc1?source=rss-3e53b5bc8fdb------2)
-- [⚡Advice from a Software Engineer with 2+ Years of Experience.](https://javascript.plainenglish.io/advice-from-a-software-engineer-with-2-years-of-experience-f923ba9492c2?source=rss-3e53b5bc8fdb------2)
 <!-- BLOG-POST-LIST:END -->
     
 <div>

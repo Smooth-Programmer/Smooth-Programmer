@@ -60,6 +60,8 @@
   <h3> 🚀 Connect with me
     <p>
 <div>
+  
+[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,twitter&theme=dark)](https://skillicons.dev)
 <p align="left"> 
   <a href="https://www.facebook.com/profile.php?id=100041770744715" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="35" /></a>
   <a href="http://www.instagram.com/jaskaran_singhhhhhh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="35" /></a>

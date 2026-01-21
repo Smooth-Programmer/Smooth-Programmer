@@ -18,7 +18,7 @@
   </h3>
   <div>
 <p text-align="left">
-  I'm a self-taught Full Stack Developer, A Tech Blogger, Fascinated towards Application Development, Development defines me well, Technology makes me sensical, because of this I am able to leverage both my Formal Education[B.Tech Graduate, 2023] as well as my experience as a self-taught developer to create the most comprehensive and easy applications for you. I'm currently working for Accenture as a Software Engineer.</p>
+  I'm a self-taught DevOps Engineer, A Tech Blogger, Fascinated towards Application Development, Development defines me well, Technology makes me sensical, because of this I am able to leverage both my Formal Education[B.Tech Graduate, 2023] as well as my experience as a self-taught developer to create the most comprehensive and easy applications for you. I'm currently working for Accenture as a Software Engineer.</p>
     
 ![terminal (1)](https://github.com/user-attachments/assets/c15e3115-ea96-4318-a78e-d74ee559ad7e)
 </div>
@@ -45,8 +45,8 @@
 * 🌍  Hi there! I'm currently based in the vibrant city of New Delhi, India, where I’m actively contributing to the ever-evolving world of technology.
 * 🖥️  Feel free to explore my work through my portfolio where I showcase the projects I've built and the skills I've honed over time. See my Portfolio at [Smooth-Programmer](https://smooth-programmer.netlify.app/)
 * ✉️   If you'd like to connect, collaborate, or simply have a tech chat, you can reach me at [developer.micko@gmail.com](mailto:developer.micko@gmail.com) . I'm always open to exciting opportunities and meaningful conversations. 
-* 🚀  I'm also in the process of deepening my expertise in [GraphQL](https://www.youtube.com/watch?v=5199E50O7SI) & [RTL - JEST](https://www.youtube.com/watch?v=8vfQ6SWBZ-U) — continuously learning and experimenting with new patterns, best practices, and emerging trends to stay sharp and innovative.
-* ⚡ I usually write on Medium about software development, web technologies, coding best practices, career growth and my journey as a Software Developer. My blogs are focused on making complex topics simple, sharing real-world experiences, and helping other developers grow.
+* 🚀  I'm also in the process of deepening my expertise in [Docker](https://www.youtube.com/watch?v=exmSJpJvIPs) & [Kubernetes](https://www.youtube.com/watch?v=d6WC5n9G_sM) — continuously learning and experimenting with new patterns, best practices, and emerging trends to stay sharp and innovative.
+* ⚡ I usually write on Medium about software development, DevOps technologies, coding best practices, career growth and my journey as a Software Developer. My blogs are focused on making complex topics simple, sharing real-world experiences, and helping other developers grow.
  Here is my Medium Profile Link: [Jaskaran Singh](https://medium.com/@Jaskaran-Singh) and below are my latest blogs.
 ## 📝 My Latest Blogs
 <!-- BLOG-POST-LIST:START -->

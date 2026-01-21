@@ -61,7 +61,12 @@
     <p>
 <div>
   
-[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,twitter&theme=dark)](https://skillicons.dev)
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](http://www.instagram.com/jaskaran_singhhhhhh/)
+[![Facebook](https://skillicons.dev/icons?i=facebook&theme=dark)](https://www.facebook.com/profile.php?id=100041770744715)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jaskaran-techno)
+[![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://www.twitter.com/mejaskaransingh)
+[![Medium](https://skillicons.dev/icons?i=medium&theme=dark)](https://medium.com/@Jaskaran-Singh)
+
 <p align="left"> 
   <a href="https://www.facebook.com/profile.php?id=100041770744715" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="35" /></a>
   <a href="http://www.instagram.com/jaskaran_singhhhhhh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="35" /></a>

@@ -61,9 +61,6 @@
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://www.twitter.com/mejaskaransingh)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](https://mail.google.com/mail/jaskaran0201singh@gmail.com)
 
-<p align="left"> 
-<a href="https://medium.com/@Jaskaran-Singh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a>
-  </p>
 </div>  
     </p>
   </div>

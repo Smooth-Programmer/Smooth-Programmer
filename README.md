@@ -31,13 +31,8 @@
   <h3> 🚀 Developer Tools & IDE's
     <p>
     <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="40" alt="datagrip logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /> 
+      
+  [![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,wordpress)](https://skillicons.dev)
       </div>  
    </p>
   </div>
@@ -62,16 +57,11 @@
 <div>
   
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](http://www.instagram.com/jaskaran_singhhhhhh/)
-[![Facebook](https://skillicons.dev/icons?i=facebook&theme=dark)](https://www.facebook.com/profile.php?id=100041770744715)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jaskaran-techno)
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://www.twitter.com/mejaskaransingh)
-[![Medium](https://skillicons.dev/icons?i=medium&theme=dark)](https://medium.com/@Jaskaran-Singh)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](https://mail.google.com/mail/jaskaran0201singh@gmail.com)
 
 <p align="left"> 
-  <a href="https://www.facebook.com/profile.php?id=100041770744715" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="35" /></a>
-  <a href="http://www.instagram.com/jaskaran_singhhhhhh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="35" /></a>
-  <a href="https://www.linkedin.com/in/jaskaran-techno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="35" /></a> 
-  <a href="https://www.twitter.com/mejaskaransingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="50" height="35" /></a>
 <a href="https://medium.com/@Jaskaran-Singh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a>
   </p>
 </div>  

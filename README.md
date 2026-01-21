@@ -61,7 +61,6 @@
     <p>
 <div>
 <p align="left"> 
-  <img src="./icons/Instagram.svg" width="48"> 
   <a href="https://www.facebook.com/profile.php?id=100041770744715" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="35" /></a>
   <a href="http://www.instagram.com/jaskaran_singhhhhhh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="35" /></a>
   <a href="https://www.linkedin.com/in/jaskaran-techno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="35" /></a> 

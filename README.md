@@ -9,7 +9,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Latin&weight=900&size=35&pause=500&color=3D8AF7&width=542&height=60&lines=Hi+There%2C+I'm+Jaskaran+Singh.;I'm+a+DevOps+Engineer.;A+Blogger;Driven+Software+Engineer.)](https://git.io/typing-svg)
   <div justify-content="center">
- <h2> Enabling scalable and resilient technology stacks to deliver high-impact outcomes. Building reliable systems through automation, clean configurations, and best practices. Bridging development and operations to ensure seamless performance, stability, and efficiency.
+ <h2> Building reliable systems through automation, clean configurations, and best practices. Bridging development and operations to ensure seamless performance, stability, and efficiency.
    
   </div>
   
@@ -20,7 +20,7 @@
 <p text-align="left">
   I'm a self-taught DevOps Engineer, A Tech Blogger, Fascinated towards Application Development, Development defines me well, Technology makes me sensical, because of this I am able to leverage both my Formal Education[B.Tech Graduate, 2023] as well as my experience as a self-taught developer to create the most comprehensive and easy applications for you. I'm currently working for Accenture as a Software Engineer.</p>
     
-![terminal (1)](https://github.com/user-attachments/assets/b40ad90c-11cd-4917-8e8d-89a663017af2)
+![terminal](https://github.com/user-attachments/assets/6f039438-9a22-4160-b0fa-8e6ffb64028c)
 </div>
 
 

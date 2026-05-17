@@ -40,7 +40,7 @@
 * 🌍  Hi there! I'm currently based in the vibrant city of New Delhi, India, where I’m actively contributing to the ever-evolving world of technology.
 * 🖥️  Feel free to explore my work through my portfolio where I showcase the projects I've built and the skills I've honed over time. See my Portfolio at [Smooth-Programmer](https://smooth-programmer.netlify.app/)
 * ✉️   If you'd like to connect, collaborate, or simply have a tech chat, you can reach me at [developer.micko@gmail.com](mailto:developer.micko@gmail.com) . I'm always open to exciting opportunities and meaningful conversations. 
-* 🚀  I'm also in the process of deepening my expertise in [Docker](https://www.youtube.com/watch?v=exmSJpJvIPs) & [Kubernetes](https://www.youtube.com/watch?v=d6WC5n9G_sM) — continuously learning and experimenting with new patterns, best practices, and emerging trends to stay sharp and innovative.
+* 🚀  I'm also in the process of deepening my expertise in [CI/CD](https://www.youtube.com/watch?v=R8_veQiYBjI&list=PLy7NrYWoggjzSIlwxeBbcgfAdYoxCIrM2) & Infrastructure as Code (IAC) — continuously learning and experimenting with new patterns, best practices, and emerging trends to stay sharp and innovative.
 * ⚡ I usually write on Medium about software development, DevOps technologies, coding best practices, career growth and my journey as a Software Developer. My blogs are focused on making complex topics simple, sharing real-world experiences, and helping other developers grow.
  Here is my Medium Profile Link: [Jaskaran Singh](https://medium.com/@Jaskaran-Singh) and below are my latest blogs.
 ## 📝 My Latest Blogs

@@ -25,7 +25,7 @@
 
 
  ### 🚀 My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,docker,kubernetes,cicd,infrastructureascode,git,github,githubactions,postman,linux,bash,terraform,aws,prometheus,grafana&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,docker,kubernetes,git,github,githubactions,postman,linux,bash,terraform,aws,prometheus,grafana&theme=dark)](https://skillicons.dev)
      
    <div>
   <h3> 🚀 Developer Tools & IDE's

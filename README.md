@@ -45,10 +45,10 @@
  Here is my Medium Profile Link: [Jaskaran Singh](https://medium.com/@Jaskaran-Singh) and below are my latest blogs.
 ## 📝 My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Docker: Containerized Platform for Deploying Applications.](https://medium.com/@Jaskaran-Singh/getting-started-with-docker-containerized-platform-for-deploying-applications-de1e1468f8f5?source=rss-3e53b5bc8fdb------2)
 - [What is DevOps Anyway? MYTH &amp; FACT.](https://medium.com/@Jaskaran-Singh/what-is-devops-anyway-myth-fact-0944bf4fd769?source=rss-3e53b5bc8fdb------2)
 - [What is DevOps? Architecture, Components, Certifications, and Salaries of a DevOps Engineer.](https://medium.com/@Jaskaran-Singh/what-is-devops-architecture-components-certifications-and-salaries-of-a-devops-engineer-2336c8895b92?source=rss-3e53b5bc8fdb------2)
 - [How to Improve Problem Solving: The Ultimate Guide.](https://medium.com/@Jaskaran-Singh/how-to-improve-problem-solving-the-ultimate-guide-3bfa4156fc87?source=rss-3e53b5bc8fdb------2)
-- [️ My Software Development Conference Experience with Atlassian.](https://medium.com/@Jaskaran-Singh/%EF%B8%8F-my-software-development-conference-experience-with-atlassian-d762246e0d06?source=rss-3e53b5bc8fdb------2)
 <!-- BLOG-POST-LIST:END -->
     
 <div>
